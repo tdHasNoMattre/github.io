@@ -2,4 +2,4 @@
 
 To distribute my music
 
-<a href="./weblog.html/">ブログ</a>
+<a href="./weblog.html">ブログ</a>
