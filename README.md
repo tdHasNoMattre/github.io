@@ -2,4 +2,4 @@
 
 To distribute my music
 
-<a href="https://tdhasnomattre.github.io/github.io/weblog.html/">ブログ</a>
+<a href="./weblog.html/">ブログ</a>
